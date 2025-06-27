@@ -160,7 +160,7 @@ const Hero = () => {
               <div className="relative">
                 <div className="absolute -inset-4  from-pink-500 to-purple-500 rounded-full blur opacity-75 animate-pulse"></div>
                 <img
-                  src="cropped_circle_image.png"
+                  src="photo.png"
                   alt="Profile"
                   className="relative w-[300px] h-[300px] md:w-[350px] md:h-[350px] object-cover rounded-full shadow-2xl hover:scale-105 transition-transform duration-300"
                 />
