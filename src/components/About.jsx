@@ -10,7 +10,7 @@ const About = () => {
       </div>
 
       {/* Main Content Section */}
-      <div className="container mx-auto flex flex-col md:flex-row gap-4 mt-8">
+      <div className="container mx-auto flex flex-col grid md:grid-col-4 gap-5 mt-8">
         {/* Who am I Section */}
         <div className="w-full md:w-1/3 border-2 border-red-200 rounded-lg p-6 hover:border-red-400 transition-colors duration-300">
           <h2 className="text-3xl font-semibold text-gray-500">Who am I ?</h2>
