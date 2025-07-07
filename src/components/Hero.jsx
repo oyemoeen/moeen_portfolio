@@ -78,7 +78,7 @@ const Hero = () => {
                     <i className="fab fa-linkedin"></i>
                   </a>
                   <a
-                    href="https://github.com/moeenali123"
+                    href="https://github.com/oyemoeen"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-2xl text-gray-800 transition-all duration-300 hover:-translate-y-1"
@@ -93,14 +93,14 @@ const Hero = () => {
                   >
                     <i className="fab fa-twitter"></i>
                   </a> */}
-                  <a
+{/*                   <a
                     href="https://www.instagram.com/oyemoeen_/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-2xl text-pink-600 transition-all duration-300 hover:-translate-y-1"
                   >
                     <i className="fab fa-instagram"></i>
-                  </a>
+                  </a> */}
                 </motion.div>
 
                 {/* Call to Action Buttons */}
